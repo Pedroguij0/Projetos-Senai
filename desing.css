@@ -1,0 +1,87 @@
+body{
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+header{
+    background-color: #035317;
+    color: #fff;
+    padding: 22px;
+    text-align: center;
+    justify-content: center;
+}
+
+.custom-home-button {
+    color: blue; /* Substitua "blue" pela cor desejada */
+}
+ 
+
+body p2 a{
+    color: #1cec49;
+}
+
+header h1{
+    font-family: Verdana;
+    margin: 0;
+    font-size: 78px;
+    color:  #a0f88e;
+    margin-top: 50px;
+}
+
+#Menu{
+    width: 800px;
+}
+
+
+#Menu ul{
+    list-style-type: none;
+}
+
+.col-lg-4{
+    margin: 15px;
+}
+
+.bd-placeholder-img-rounded-circle{
+    background-color: #01ff41;
+    border-radius: 50%;
+}
+.col-lg-4 p2{
+    background-color: #000000;
+    padding: 2%;
+    border-radius: 110%;
+    font-style: bold rgb(24, 182, 24);
+}
+
+#nav-item{
+    font-family: Helvetica;
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    width: 150px;
+    float: left;
+}
+
+#navbar-toggler{
+    color: #ff0000;
+}
+
+#Menu li a{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: Verdana;
+}
+
+#Menu li a:hover{
+    background-color: rgb(209, 24, 39);
+    color: #fff
+}
+
+header img{
+    margin-right: 1500px;
+    margin-top: -135px;
+}
+#carousel slide{
+
+}
